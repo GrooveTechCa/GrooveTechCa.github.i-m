@@ -17,23 +17,23 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Engineering Services"
+    text: "Safety Critcal Experience You Can Trust"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Systems"
+        desc: "There is no greater investment you can make in the success of your programs than a consistent and measured approach to Systems Engineering. Our experts can guide you down and up the V each step of the way."
+        icon: fas fa-users-gear #find more at https://fontawesome.com/icons
+      - title: "Software"
+        desc: "Embedded systems, EUD platforms, and cloud, our experience is varied and mission-focused for your problem space."
+        icon: fas fa-microchip
+      - title: "Business Process"
+        desc: "Our experience with ISO 9001 & AS9100 combined with our technology approach can be your secret weapon to an efficient Minimum Viable Process"
+        icon: fab fa-sitemap
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Our team's experience"
     section: portfolio
     closebutton: "Close Project"
 
